@@ -1,16 +1,7 @@
-# assignment6
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/105677622/168684313-06fb9a67-be19-4edd-a64b-f8194fc74b9a.png)
+![image](https://user-images.githubusercontent.com/105677622/168684480-729f192a-7014-4a5a-ac23-1c471cf6ba24.png)
+![image](https://user-images.githubusercontent.com/105677622/168684507-f4d7fb98-b61c-4962-bc4f-81df9d212143.png)
+![image](https://user-images.githubusercontent.com/105677622/168684537-68b6924d-f359-4d84-a512-a878e7f53dab.png)
+![image](https://user-images.githubusercontent.com/105677622/168684558-995fecc0-e9ae-48e2-916a-8219b7ef9bb5.png)
+![image](https://user-images.githubusercontent.com/105677622/168684581-450b7668-9723-492a-a68e-1db7499cf512.png)
+![image](https://user-images.githubusercontent.com/105677622/168684607-ca6b6c19-a8b1-46ad-a3c3-8d50658573ba.png)
